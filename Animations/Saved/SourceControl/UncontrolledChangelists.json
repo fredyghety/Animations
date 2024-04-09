@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/Blueprints/BP_MyAnimationCharacter.uasset",
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/Animations/ABP_MyCharacter.uasset",
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/Animations/BS_Reload.uasset",
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/AnimStarterPack/Reload_Rifle_Hip.uasset",
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/ThirdPerson/Input/Actions/IA_Reload.uasset",
+				"C:/Users/fredy/Desktop/github/aaa/Animations/Animations/Content/Animations/Reload_Rifle_Ironsights.uasset",
 				"C:/Users/fredy/Documents/Unreal Projects/Animations/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/fredy/Documents/Unreal Projects/Animations/Content/Animations/BS_No_weapon.uasset",
 				"C:/Users/fredy/Documents/Unreal Projects/Animations/Content/Blueprints/BP_MyAnimationCharacter.uasset",
